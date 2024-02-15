@@ -1,0 +1,2 @@
+*.teamviewer.com
+*.teamviewer.de
